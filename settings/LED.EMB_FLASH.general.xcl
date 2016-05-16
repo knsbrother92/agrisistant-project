@@ -1,0 +1,13 @@
+"C:\Program Files\IAR Systems\Embedded Workbench 7.2\arm\bin\armproc.dll" 
+
+"C:\Program Files\IAR Systems\Embedded Workbench 7.2\arm\bin\armjlink.dll" 
+
+"E:\IAR Embedded Workbench for ARM 7.40 (2)\임시 폴더\수정코드\final_code\EMB_FLASH\Exe\LED.out" 
+
+--plugin "C:\Program Files\IAR Systems\Embedded Workbench 7.2\arm\bin\armbat.dll" 
+
+--device_macro "C:\Program Files\IAR Systems\Embedded Workbench 7.2\arm\config\debugger\ST\STM32F1xx_XL.dmac" 
+
+
+
+
